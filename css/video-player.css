@@ -126,3 +126,7 @@ video{
 .switch-div-control{
     display: none;
 }
+.audio-page-number{
+    right: 1px;
+    bottom:56px!important;
+}
